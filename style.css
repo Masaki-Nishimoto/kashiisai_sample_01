@@ -27,11 +27,9 @@ header {
     color: white;
   }
 
-  #buttonSet1 {
-    position: absolute;
-    top: 2rem;
-    right:3rem;
-  }
+  li {
+  margin-bottom: .5rem;
+}
 
 nav {
   padding: 1rem 3rem ;
