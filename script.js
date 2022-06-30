@@ -17,3 +17,13 @@ $( function() {
     $( 'footer a' ).css( 'color','red' );
   });
 });
+
+//スライダーサンプル
+
+$(function(){
+   $('.slider').bxSlider({
+      auto:true,
+      speed:1000,
+      pager:true
+   });
+});
