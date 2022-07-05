@@ -54,12 +54,6 @@ main{
   flex-direction: row;
 }
 
-  section{
-    flex: 3;
-    padding: 3rem;
-    background: #EEE;
-　  }
-
     article{
       min-height: 8rem;
       padding: 1rem;
