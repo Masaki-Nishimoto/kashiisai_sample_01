@@ -54,13 +54,6 @@ main{
   flex-direction: row;
 }
 
-    article{
-      min-height: 8rem;
-      padding: 1rem;
-      margin-bottom: 2rem;
-      background: #FFF;
-    }
-
     /* 地図 */
     #location {
       padding: 4% 0;
