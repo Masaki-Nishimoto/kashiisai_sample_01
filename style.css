@@ -19,6 +19,7 @@ body {
 }
 .main-nav li {
   margin-reft: 36px;
+  letter-spacing: normal;
 }
 .main-nav a {
   color: #432;
