@@ -68,6 +68,24 @@ header {
   color: #0bd;
 }
 
+nav {
+padding: 1rem 3rem ;
+background: #333;
+}
+
+nav ul{
+  display: flex;
+  flex-direction: row;
+}
+
+nav ul li{
+  margin-right: 2rem;
+}
+
+nav ul li a {
+  color: white;
+}
+
 /* MAIN */
 main{
   display: rowujm;
