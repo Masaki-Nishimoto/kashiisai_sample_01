@@ -18,7 +18,7 @@ header {
   position:relative;
   height: 8rem;
   background: #333;
-  box-shadow: 0 4px 0.3125rem rgba(0,0,0,.3);
+  box-shadow: 0 4px 0.3125rem rgba(0,0,0,.3;
 }
 
 .logo {
@@ -49,7 +49,7 @@ header {
   justify-content: space-between;
 }
 
-/* MENU NAV */
+/* NAV */
 .menu-nav {
   display: flex;
   font-size: 1rem;
@@ -68,37 +68,20 @@ header {
   color: #0bd;
 }
 
-nav {
-padding: 1rem 3rem ;
-background: #333;
-}
-
-nav ul{
-  display: flex;
-  flex-direction: row;
-}
-
-nav ul li{
-  margin-right: 2rem;
-}
-
-nav ul li a {
-  color: white;
-}
-
 /* MAIN */
 main{
   display: rowujm;
   flex-direction: row;
 }
 
-    article{
-      min-height: 8rem;
-      padding: 1rem;
-      margin-bottom: 2rem;
-      background: #FFF;
-    }
+article{
+  min-height: 8rem;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  background: #FFF;
+}
 
+/* FOOTER */
 footer {
   padding: 2rem 3rem;
   text-align: center;
