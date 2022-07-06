@@ -59,7 +59,7 @@ nav ul li a {
   list-style: none;
 }
 .main-nav li {
-  margin-right: 36px;
+  margin-left: 36px;
   letter-spacing: normal;
 }
 .main-nav a {
@@ -68,10 +68,14 @@ nav ul li a {
 .main-nav a:hover {
   color: #0bd;
 }
-
 .page-header {
   display: flex;
   justify-content: space-between;
+}
+.wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 4%;
 }
 
 /* MAIN */
