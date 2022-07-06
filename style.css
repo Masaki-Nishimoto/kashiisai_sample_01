@@ -57,14 +57,14 @@ header {
   margin-top: 34px;
   list-style: none;
 }
-.main-nav li {
+.manu-nav li {
   margin-reft: 36px;
   letter-spacing: normal;
 }
-.main-nav a {
-  color: #000000;
+.manu-nav a {
+  color: #ffffff;
 }
-.main-nav a:hover {
+.manu-nav a:hover {
   color: #0bd;
 }
 
