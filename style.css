@@ -13,6 +13,7 @@
   margin: 0 auto;
 }
 
+ /* HEADER */
 header {
    position:relative;
    height: 8rem;
@@ -20,7 +21,6 @@ header {
    box-shadow: 0 4px 0.3125rem rgba(0,0,0,.3);
  }
 
- /* HEADER */
  .logo {
    width: 210px;
    margin-top: 14px;
@@ -49,6 +49,26 @@ header {
    justify-content: space-between;
  }
 
+/* MENU NAV */
+nav {
+padding: 1rem 3rem ;
+background: #333;
+}
+
+nav ul{
+  display: flex;
+  flex-direction: row;
+}
+
+nav ul li{
+  margin-right: 2rem;
+}
+
+nav ul li a {
+  color: white;
+}
+
+/* MAIN */
 main{
   display: rowujm;
   flex-direction: row;
